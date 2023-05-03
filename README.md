@@ -7,9 +7,9 @@ This is the minor project created using python programming language and numbers 
 2. pip
 
 #Run given commands in your Command Prompt
-pip install pyjokes
-pip install pyttsx3
-pip install wikipedia
-pip install ecapture
-pip install smtplib
-pip install pyaudio
+1. pip install pyjokes
+2. pip install pyttsx3
+3. pip install wikipedia
+4. pip install ecapture
+5. pip install smtplib
+6. pip install pyaudio
